@@ -10,3 +10,5 @@ ZCZC W03 telah siap
 ZCZC W04 siap
 
 ZCZC W05 selesai
+
+ZCZC W06 Siap
